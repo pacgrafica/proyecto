@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    padding: auto;
+}
+.cabecera{
+    background-color: aqua;
+    height: 15em;
+}
+
+.menuLateral{
+    background-color: rgb(255, 140, 0);
+    height: 30em;
+}
+
+.verde{
+    background-color: chartreuse;
+    height: 30em;
+}
+
+.azul{
+    background-color: darkblue;
+    height: 30em;
+}
+
+.inferior{
+    background-color: darkorchid;
+    height: 15em;
+}
